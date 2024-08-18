@@ -18,4 +18,4 @@ python .\LVP_generator.py
 
 图片示例
 
-![be693f88bf767ae627201dd026fbb08](.\pic\be693f88bf767ae627201dd026fbb08.png)
+![be693f88bf767ae627201dd026fbb08](./pic/be693f88bf767ae627201dd026fbb08.png)
